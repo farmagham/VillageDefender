@@ -1,0 +1,9 @@
+
+1-rotate on the x axis -90
+
+2-apply the rotation/scale
+
+3-rotate on the x axis 90
+
+4-export as an fbx file
+
